@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<item android:id="@+id/Item1"
+    android:Title="Item1"/>
+    <item android:id="@+id/Item2"
+        android:Title="Item2"/>
+    <item android:id="@+id/Item3"
+        android:Title="Item3"/>
+    <item android:id="@+id/Item4"
+        android:Title="Item4"/>
+</LinearLayout>
